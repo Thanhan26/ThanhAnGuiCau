@@ -358,6 +358,14 @@
         text-align: right;
         color: #f7be10;
     }
+    h4
+    {
+        font-style: normal;
+        margin-bottom: 0;
+        white-space: nowrap;
+        text-align: right;
+        color:aquamarine;
+    }
 
     @-webkit-keyframes bodyLaugh {
         0% {
@@ -1084,6 +1092,8 @@
         <h2>Tớ Chúc Cậu Có Một Giáng Sinh An Lành Ấm Áp Bên Gia Đình Và Ngưởi Thân Yêu Nhé!</h2>
         <h2>Bạn Yêu Của Tớ♥</h2>
         <h3>Thành An - Demon</h3>
+        <a href="https://www.facebook.com/thanhan.demon26"><h4>Muốn gửi lời muốn nói với tớ qua facebook này nhé</h4></a>
+
     </div>
     <div class="window ">
         <div class="santa">
